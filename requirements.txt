@@ -9,9 +9,6 @@ faiss-cpu==1.7.3
 transformers==4.43.3
 sentence-transformers==3.0.1
 nltk==3.8.1
-torch==2.1.0
-torchvision==0.16.0
-torchaudio==2.1.0
 
 # python-dotenv: Loads environment variables from a .env file
 # streamlit: Creates web apps for machine learning and data science
