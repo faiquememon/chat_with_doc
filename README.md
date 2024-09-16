@@ -32,7 +32,7 @@
 <h2>Installation:</h2>
 <ol>
     <li><p style="font-size:16px;">Clone the repository:</p>
-        <pre><code>git clone https://github.com/your-repo-name</code></pre>
+        <pre><code>git clone https://github.com/chat_with_doc</code></pre>
     </li>
     <li><p style="font-size:16px;">Install the required dependencies:</p>
         <pre><code>pip install -r requirements.txt</code></pre>
