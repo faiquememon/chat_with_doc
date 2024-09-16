@@ -1,0 +1,26 @@
+python-dotenv==1.0.1
+streamlit==1.37.0
+langchain-community==0.2.10
+langchain-text-splitters==0.2.2
+langchain-groq==0.1.9
+unstructured==0.15.0
+unstructured[pdf]==0.15.0
+faiss-cpu==1.7.3
+transformers==4.43.3
+sentence-transformers==3.0.1
+nltk==3.8.1
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+
+# python-dotenv: Loads environment variables from a .env file
+# streamlit: Creates web apps for machine learning and data science
+# langchain-community: Community-contributed components for LangChain
+# langchain-text-splitters: Text splitting utilities for LangChain
+# langchain-groq: Groq integration for LangChain
+# unstructured: Library for preprocessing unstructured data
+# unstructured[pdf]: PDF-specific functionality for unstructured
+# faiss-gpu: GPU-enabled version of Facebook AI Similarity Search
+# transformers: Hugging Face's transformers library for NLP
+# sentence-transformers: Easy-to-use sentence and text embeddings
+# nltk: Natural Language Toolkit for NLP tasks
