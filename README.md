@@ -36,7 +36,7 @@ This Streamlit-based web application allows users to upload and interact with re
 ## Installation:
 
 ```bash
-git clone https://github.com/your-username/chat-with-research-paper.git
+git clone /https://github.com/faiquememon/chat_with_doc.git
 cd chat-with-research-paper
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run main.py
